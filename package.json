@@ -1,0 +1,22 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "my personal website",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --config bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fisher-bissett/personal-website.git"
+  },
+  "author": "Fisher Bissett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fisher-bissett/personal-website/issues"
+  },
+  "homepage": "https://github.com/fisher-bissett/personal-website#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.5"
+  }
+}
