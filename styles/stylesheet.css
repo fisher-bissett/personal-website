@@ -56,19 +56,19 @@ body {
     margin: 0;
 }
 
-div.bio {
+div.footer {
     width: 100%;
-    height: 400px;
+    height: 200px;
     background-color: #111010;
     display: inline-block;
     text-align: center;
 }
 
-h3.bio-text {
+h3.footer-text {
     color: #8e8383;
     font-family: LaborUnion-Small;
     text-align: center;
-    padding-top: 75px;
+    padding-top: 30px;
     font-size: 22px;
     letter-spacing: 3px;
     text-transform: uppercase;
@@ -114,4 +114,19 @@ li.social-dots {
     width: 35px;
     height: 35px;
     margin-top: 7px;
+}
+
+.middle1 {
+    background-color: #76858A;
+    width: 50%;
+    height: 400px;
+    display: inline-block;
+}
+
+.middle2 {
+    background-color: #4a6771;
+    width: 50%;
+    height: 400px;
+    display: inline-block;
+    float: right;
 }
